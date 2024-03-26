@@ -3,4 +3,6 @@
 </p>
 
 # Partituras
-Aqui está o local onde estarei postando todas as partituras das músicas originais, tenha um bom proveito☺
+Aqui está o local onde estarei postando todas as partituras das músicas originais, elas estão dentro do código.
+
+Tenha um bom proveito☺
